@@ -1,0 +1,22 @@
+========================
+{
+  bookingid: 1792,
+  booking: {
+    firstname: 'Ali',
+    lastname: 'Mehmood',
+    totalprice: 1000,
+    depositpaid: true,
+    bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+    additionalneeds: 'super bowls'
+  }
+}
+========================
+Updated Data
+{
+  firstname: 'Fahad',
+  lastname: 'Mehmood',
+  totalprice: 1000,
+  depositpaid: true,
+  bookingdates: { checkin: '2018-01-01', checkout: '2019-01-01' },
+  additionalneeds: 'super bowls'
+}
